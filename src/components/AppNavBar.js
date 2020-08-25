@@ -19,10 +19,10 @@ const AppNavBar = () => {
           <Nav className='ml-auto' navbar>
             <NavItem>
               <NavLink
-                href='https://github.com/logudev/mock-ft-responses'
+                href='https://github.com/logudev/mock-ft-response-ui'
                 target='_blank'
               >
-                Github - Backend
+                Github - Frontend
               </NavLink>
             </NavItem>
             <NavItem>
@@ -30,7 +30,7 @@ const AppNavBar = () => {
                 href='https://github.com/logudev/mock-ft-responses'
                 target='_blank'
               >
-                Github - Frontend
+                Github - Backend
               </NavLink>
             </NavItem>
           </Nav>
